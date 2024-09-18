@@ -1,0 +1,9 @@
+Flask
+pymysql
+openpyxl
+torch
+torchvision
+Pillow
+numpy
+base64
+timm
