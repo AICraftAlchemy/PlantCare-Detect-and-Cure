@@ -88,13 +88,13 @@ Machine Learning, Deep Learning ,Pytorch
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/AICraftAlchemy/PlantCare-Detect-and-Cure
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd PlantCare-Detect-and-Cure
 ```
 
 Install dependencies
